@@ -6,11 +6,11 @@ Remember to use something like type-scale.com
 to get your font sizes
 *******************************************/
 *{
-	padding:0;
-	margin: 0;
+	padding:5px;
+	margin: 5px;;
 }
 html,body{
-
+background: #04B431;
 }
 h1{
 
